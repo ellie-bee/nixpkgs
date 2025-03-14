@@ -6894,6 +6894,12 @@
     githubId = 5300871;
     name = "Leon Kowarschick";
   };
+  ellie-bee = {
+    email = "elliewalker314@gamil.com";
+    github = "ellie-bee";
+    githubId = 70240376;
+    name = "Eleanor Walker";
+  };
   elliot = {
     email = "hack00mind@gmail.com";
     github = "Eliot00";

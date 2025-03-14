@@ -10,7 +10,7 @@
     meta = with lib; {
       broken = stdenv.hostPlatform.isDarwin;
       description = "OpenSteno Plover stenography software";
-      maintainers = with maintainers; [ twey kovirobi ];
+      maintainers = with maintainers; [ twey kovirobi ellie-bee ];
       license     = licenses.gpl2;
     };
 
